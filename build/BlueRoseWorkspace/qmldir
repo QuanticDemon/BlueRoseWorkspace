@@ -1,0 +1,9 @@
+module BlueRoseWorkspace
+typeinfo BlueRoseWorkspace-app.qmltypes
+prefer :/BlueRoseWorkspace/
+Main 1.0 Main.qml
+Sidebar 1.0 components/Sidebar.qml
+Topbar 1.0 components/Topbar.qml
+singleton DefaultTheme 1.0 Theme/DefaultTheme.qml
+depends QtQuick
+

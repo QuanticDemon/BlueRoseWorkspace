@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_BlueRoseWorkspace-app_FILE /data/Dev/BlueRoseWorkspace/build/BlueRoseWorkspace-app)
+set(__QT_DEPLOY_TARGET_BlueRoseWorkspace-app_TYPE EXECUTABLE)

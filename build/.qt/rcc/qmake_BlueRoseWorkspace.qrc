@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/BlueRoseWorkspace">
+    <file alias="qmldir">/data/Dev/BlueRoseWorkspace/build/BlueRoseWorkspace/qmldir</file>
+  </qresource>
+</RCC>
+

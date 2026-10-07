@@ -1,0 +1,8 @@
+--resource
+/data/Dev/BlueRoseWorkspace/build/.qt/rcc/qmake_BlueRoseWorkspace.qrc
+--resource
+/data/Dev/BlueRoseWorkspace/build/.qt/rcc/BlueRoseWorkspace-app_raw_qml_0.qrc
+/BlueRoseWorkspace/Main.qml
+/BlueRoseWorkspace/components/Sidebar.qml
+/BlueRoseWorkspace/components/Topbar.qml
+/BlueRoseWorkspace/Theme/DefaultTheme.qml

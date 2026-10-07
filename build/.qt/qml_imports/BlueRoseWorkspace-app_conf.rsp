@@ -1,0 +1,14 @@
+-rootPath
+/data/Dev/BlueRoseWorkspace
+-cmake-output
+-output-file
+/data/Dev/BlueRoseWorkspace/build/.qt/qml_imports/BlueRoseWorkspace-app_conf.cmake
+-importPath
+/data/Dev/BlueRoseWorkspace/build
+-importPath
+/data/Dev/BlueRoseWorkspace/build/BlueRoseWorkspace
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/data/Dev/BlueRoseWorkspace/build/.qt/rcc/qmake_BlueRoseWorkspace.qrc
+/data/Dev/BlueRoseWorkspace/build/.qt/rcc/BlueRoseWorkspace-app_raw_qml_0.qrc

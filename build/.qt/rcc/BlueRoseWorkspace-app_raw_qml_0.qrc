@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/BlueRoseWorkspace/">
+    <file alias="Main.qml">/data/Dev/BlueRoseWorkspace/Main.qml</file>
+    <file alias="components/Sidebar.qml">/data/Dev/BlueRoseWorkspace/components/Sidebar.qml</file>
+    <file alias="components/Topbar.qml">/data/Dev/BlueRoseWorkspace/components/Topbar.qml</file>
+    <file alias="Theme/DefaultTheme.qml">/data/Dev/BlueRoseWorkspace/Theme/DefaultTheme.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,15 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                    ],
+                    "filePath": "/data/Dev/BlueRoseWorkspace/Theme/DefaultTheme.qml"
+                }
+            ],
+            "moduleId": "BlueRoseWorkspace(BlueRoseWorkspace-app)"
+        }
+    ]
+}

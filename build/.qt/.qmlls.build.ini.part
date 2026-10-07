@@ -1,0 +1,3 @@
+[<SLASH>data<SLASH>Dev<SLASH>BlueRoseWorkspace]
+importPaths="/data/Dev/BlueRoseWorkspace/build:/data/Dev/BlueRoseWorkspace/build/BlueRoseWorkspace:/usr/lib/qt6/qml"
+resourceFiles="/data/Dev/BlueRoseWorkspace/build/.qt/rcc/qmake_BlueRoseWorkspace.qrc:/data/Dev/BlueRoseWorkspace/build/.qt/rcc/BlueRoseWorkspace-app_raw_qml_0.qrc"

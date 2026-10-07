@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/BlueRoseWorkspace">/data/Dev/BlueRoseWorkspace/build/BlueRoseWorkspace</file>
+
+  </qresource>
+</RCC>
